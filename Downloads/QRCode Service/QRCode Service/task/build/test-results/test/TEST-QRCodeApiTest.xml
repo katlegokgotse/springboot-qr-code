@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QRCodeApiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-23T16:54:45" hostname="DESKTOP-QACCTAN" time="10.022">
+  <properties/>
+  <testcase name="start" classname="QRCodeApiTest" time="10.022"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+?[0;34m
+?[0m?[0;34m  .   ____          _            __ _ _
+?[0m?[0;34m /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+?[0m?[0;34m( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+?[0m?[0;34m \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+?[0m?[0;34m  '  |____| .__|_| |_|_| |_\__, | / / / /
+?[0m?[0;34m =========|_|==============|___/=/_/_/_/
+?[0m?[0;34m :: Spring Boot ::                (v3.2.0)
+?[0m?[0;34m
+?[0m?[0;34m2024-12-23T18:54:47.462+02:00  INFO 12004 --- [    Test worker] qrcodeapi.Application                    : Starting Application using Java 21.0.1 with PID 12004 (started by User in C:\Users\User\Downloads\QRCode Service\QRCode Service\task)
+?[0m?[0;34m2024-12-23T18:54:47.475+02:00  INFO 12004 --- [    Test worker] qrcodeapi.Application                    : No active profile set, falling back to 1 default profile: "default"
+?[0m?[0;34m2024-12-23T18:54:51.951+02:00  INFO 12004 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8181 (http)
+?[0m?[0;34m2024-12-23T18:54:51.976+02:00  INFO 12004 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+?[0m?[0;34m2024-12-23T18:54:51.977+02:00  INFO 12004 --- [    Test worker] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+?[0m?[0;34m2024-12-23T18:54:52.102+02:00  INFO 12004 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+?[0m?[0;34m2024-12-23T18:54:52.106+02:00  INFO 12004 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4417 ms
+?[0m?[0;34m2024-12-23T18:54:54.120+02:00  INFO 12004 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+?[0m?[0;34m2024-12-23T18:54:54.367+02:00  INFO 12004 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8181 (http) with context path ''
+?[0m?[0;34m2024-12-23T18:54:54.410+02:00  INFO 12004 --- [    Test worker] qrcodeapi.Application                    : Started Application in 8.014 seconds (process running for 11.486)
+?[0;34m2024-12-23T18:54:55.381+02:00  INFO 12004 --- [nio-8181-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+?[0m?[0;34m2024-12-23T18:54:55.381+02:00  INFO 12004 --- [nio-8181-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+?[0m?[0;34m2024-12-23T18:54:55.384+02:00  INFO 12004 --- [nio-8181-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+?[0m?[1;31m
+Start test 2?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
